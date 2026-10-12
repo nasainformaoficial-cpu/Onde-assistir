@@ -1,0 +1,6 @@
+{
+  "name": "Onde Assistir - Guia de Streaming de Filmes no Brasil",
+  "description": "Descubra onde assistir filmes em streaming no Brasil (Netflix, Prime Video, Disney+, Max, Globoplay, Apple TV+ e mais) com dados em tempo real do TMDB.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
